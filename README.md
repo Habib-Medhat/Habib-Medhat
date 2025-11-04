@@ -34,8 +34,9 @@
 ### 🛠️ Skills & Tools 
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,powerbi,pandas,numpy,jupyter,vscode,sqlserver,excel,sklearn,tensorflow,aws,git,linux&perline=6" height="110"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,pbi,pandas,numpy,jupyter,vscode,excel,sklearn,tensorflow,aws&perline=6" height="110"/>
 </p>
+
 
 ---
 
