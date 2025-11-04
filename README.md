@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/habibmedhat">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/>
   </a>
-    <a href="https://www.facebook.com/habib.medhat.2025">
-      <img src="https://www.iconpacks.net/free-icon/facebook-5212.html" height="40"/>
-  </a>
 </p>
 
 ---
