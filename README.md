@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Habib Medhat 👋</h1>
-<h2 align="center">Data Scientist</h2>
+<h2 align="center">Aspiring Data Engineer | Data Science Graduate</h2>
 
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=Habib+Medhat">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights;Machine+Learning+%7C+Analytics+%7C+BI;Follow+to+see+my+projects&font=Bold%20Code&center=true&color=30F050&pause=2000">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+%26+Analytics;Building+Pipelines+%7C+ETL+%7C+BI;Python+%7C+SQL+%7C+Cloud+%26+ML;Follow+to+see+my+projects!&font=Bold%20Code&center=true&color=30F050&pause=2000">
 </p>
 
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=A-Hemeda">
-    <img src="https://komarev.com/ghpvc/?username=A-Hemeda&style=flat&color=3010A0" height="28"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Habib-Medhat&style=flat&color=3010A0" height="28"/>
 </p>
 
 <p align="center">
@@ -22,6 +18,7 @@
 ---
 
 ### 📩 Contact  
+
 <p>
   <a href="mailto:habibmedhat.dev@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="40"/>
@@ -35,46 +32,59 @@
 
 ### 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,powerbi,pandas,numpy,jupyter,vscode,sqlserver,excel,sklearn,tensorflow&perline=6" height="110"/>
+#### 🚀 Core
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,powerbi,pandas,numpy,jupyter,vscode,git,github,excel&perline=7" height="110"/>
+</p>
+
+#### 🏗️ Data Engineering
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,hadoop,databricks,postgres,sqlserver,docker&perline=7" height="110"/>
+</p>
+
+#### 🤖 Machine Learning (Foundation)
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,tensorflow&perline=5" height="100"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A-Hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  <img src="https://streak-stats.demolab.com?user=A-Hemeda&theme=highcontrast" height="125"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib-Medhat&layout=compact&langs_count=6&theme=highcontrast" height="120"/>&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Habib-Medhat&theme=highcontrast" height="120"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements  
 
-<p align="left">
-  
-![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+<p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Habib-Medhat&theme=onestar&no-bg=true&no-frame=true&row=1&column=6)
 
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Graph  
 
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/Habib-Medhat/Habib-Medhat/blob/output/snake-dark.svg)
 
 ---
 
 ### 🚀 About Me
 
-✅ Data Science Student  
-✅ Interested in ML, Data Engineering & Business Analytics  
-✅ Building real-world ML + BI projects  
-✅ Always learning & improving  
+🎓 Data Science Student @ Faculty of Computers & AI  
+💼 Aspiring **Data Engineer**  
+📊 Passionate about **Data Pipelines, ETL, Big Data, BI**  
+🤖 Strong foundation in **ML, SQL & Python**  
+📡 Learning **Cloud & Distributed Systems**  
+🔥 Building projects to level up every day  
 
-> *“Data is the new oil — and I'm refining it.”*
+> *Data is the fuel, Pipelines are the engine 🚀*
 
 ---
 
-⭐ **Feel free to explore & star my projects!**
+⭐ **Explore my repositories & follow my journey!**
