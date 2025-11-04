@@ -20,7 +20,7 @@
 ---
 
 ### 📩 Contact  
-<p>
+<p align="center">
   <a href="mailto:habibmedhat.dev@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="40"/>
   </a>
@@ -33,7 +33,7 @@
 
 ### 🛠️ Skills & Tools 
 
-<p align="left">
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sqlserver,pbi,pandas,numpy,jupyter,vscode,excel,sklearn,tensorflow,aws" height="110"/>
 </p>
 
@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib-Medhat&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
   <img src="https://streak-stats.demolab.com?user=Habib-Medhat&theme=highcontrast" height="125"/>
 </p>
@@ -51,7 +51,7 @@
 
 ### 🏆 Achievements
 
-<p align="left">
+<p align="center">
 
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=Habib-Medhat&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
