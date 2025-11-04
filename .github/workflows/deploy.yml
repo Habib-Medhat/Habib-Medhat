@@ -1,0 +1,29 @@
+name: Deploy Skill Icons Page
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Create dist folder and index file
+        run: |
+          mkdir -p dist
+          echo '<p align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,powerbi,pandas,numpy,jupyter,vscode,sqlserver,excel,sklearn,tensorflow,aws,git,linux&perline=6" height="110"/></p>' > dist/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
