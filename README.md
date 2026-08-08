@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1X2zKAJTIoxSYqFUoNcF7Udovmj6EriUQ/view?usp=drive_link">
+  <a href="[[https://drive.google.com/file/d/1X2zKAJTIoxSYqFUoNcF7Udovmj6EriUQ/view?usp=drive_link](https://drive.google.com/file/d/1r3gMA2sjmz6PEyWVMhKDH2vazWJzMNVR/view?usp=sharing)](https://drive.google.com/file/d/1r3gMA2sjmz6PEyWVMhKDH2vazWJzMNVR/view?pli=1)">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" height="32"/>
   </a>
 </p>
